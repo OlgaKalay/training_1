@@ -25,7 +25,7 @@ def test_payments_reporting():
 
     driver = webdriver.Chrome()
     driver.get(url)
-    timeout_main = 20
+    timeout_main = 21
 
     #login to the system
     try:
